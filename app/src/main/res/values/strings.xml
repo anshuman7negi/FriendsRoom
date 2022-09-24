@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Friends Room</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="google">Google</string>
+    <string name="sign_in_with_phone">Sign In With Phone ?</string>
+    <string name="facebook">Facebook</string>
+
+
+    <string name="already_have_an_account">already_have_an_account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_message">Enter Your Message</string>
+
+    <string name="anshuman_negi">Anshuman Negi</string>
+
+
+</resources>
